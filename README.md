@@ -90,3 +90,18 @@ override fun ViewResult.reduce(oldState: State): State {
     }
 }
 ```
+
+📱 Screenshots
+Here's a visual tour of the Snifflicks app:
+
+| Screen | Description |
+|--------|-------------|
+| ![Splash Screen](screenshots/splash.webp) | Splash screen with app branding |
+| ![Password Protection](screenshots/password_protection.webp) | Secure password protection screen |
+| ![Genre Selection (Unchecked)](screenshots/genres_unchecked.webp) | Genre selection screen - initial state |
+| ![Genre Selection (Checked)](screenshots/genres_checked.webp) | Genre selection screen - with selections |
+| ![Movie Listing Loading](screenshots/listing_screen_loading.webp) | Movie listing screen - loading state |
+| ![Movie Listing 1](screenshots/listing_screen_1.webp) | Movie listing screen - main view |
+| ![Movie Listing 2](screenshots/listing_screen_2.webp) | Movie listing screen - scrolled view |
+| ![Movie Details](screenshots/details_page.webp) | Detailed movie information screen |
+| ![Video Player](screenshots/details_page_video_player.webp) | Integrated video player for trailers |
