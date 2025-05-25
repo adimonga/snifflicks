@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">SnifFlicks</string>
+    <string name="app_icon">Movie app icon</string>
+    <string name="error_icon">Error icon</string>
+
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="error_generic">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="back">Back</string>
+
+    <!-- Movie List -->
+    <string name="movies_title">Movies</string>
+    <string name="search_movies">Search movies</string>
+    <string name="rating_format">★ %.1f</string>
+    <string name="no_movies_found">No movies found</string>
+    <string name="error_loading_movies">Error loading movies</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+    <!-- Movie Details -->
+    <string name="movie_details">Movie Details</string>
+    <string name="movie_title_with_year">%1$s (%2$s)</string>
+    <string name="runtime_format">%1$d min</string>
+    <string name="rating_with_count">★ %1$.1f (%2$d reviews)</string>
+    <string name="overview">Overview</string>
+    <string name="videos">Videos</string>
+    <string name="cast">Cast</string>
+    <string name="crew">Crew</string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="production_companies">Production Companies</string>
+    <string name="error_loading_details">Error loading movie details</string>
+    <string name="play_video">Play video</string>
+    <string name="dialog_close_button">Close dialog</string>
+
+    <!-- Genre Selection -->
+    <string name="genre_selection_title">Select Your Favorite Genres</string>
+    <string name="genre_selection_subtitle">Choose one or more genres to personalize your movie recommendations</string>
+    <string name="explore_all">Explore All Movies</string>
+    <string name="continue_with_selection">Continue with Selection</string>
+    <string name="select_genres">Please select at least one genre</string>
+    <string name="error_loading_genres">Failed to load movie genres</string>
+
+    <!-- Password Dialog -->
+    <string name="verify_password">Verify Password</string>
+    <string name="enter_password">Please enter your password to continue</string>
+    <string name="password">Password</string>
+    <string name="verify">Verify</string>
+    <string name="failed_to_load_movie_details">Failed to load movie details</string>
+    <string name="password_verified">Password verified</string>
+    <string name="invalid_password">Invalid Password!! Please try again</string>
+</resources>
